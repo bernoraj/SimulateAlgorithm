@@ -1,3 +1,14 @@
+.Node{
+  width: 25px;
+  height: 25px;
+  outline: 1px solid black;
+  display: inline-block; 
+}
+
+.walled{
+  color:black;
+}
+
 .App {
   text-align: center;
 }
